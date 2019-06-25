@@ -117,7 +117,8 @@ def changing_alan
      
 end
 
-changing_alan
+puts changing_alan
+
 
 
 
